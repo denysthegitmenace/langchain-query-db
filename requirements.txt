@@ -1,0 +1,6 @@
+langchain 
+openai
+tabulate
+jupyter
+psycopg2
+wandb
